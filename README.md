@@ -1,2 +1,3 @@
 # LibraryAppwithJava
-Project Akhir Mata kuliah OOP
+Final Project for OOP Course
+
